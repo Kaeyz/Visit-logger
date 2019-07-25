@@ -1,7 +1,7 @@
 # Visit-logger
 A web app that keeps record of the total amount of visit using nodejs, express and redis. 
 
-this app was built to learn and how docker works
+this app was built to learn how docker works
 
 
 to start server
